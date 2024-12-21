@@ -4,5 +4,5 @@
 /**
  * 
  */
-module numberGame {
+module calculator_task {
 }
